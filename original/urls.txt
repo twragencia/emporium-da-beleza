@@ -186,7 +186,6 @@ https://fonts.googleapis.com
 https://fonts.gstatic.com
 https://fonts.googleapis.com
 https://fonts.googleapis.com/css2?family=Oxygen:wght@400;700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Material+Icons&family=Material+Icons+Round&display=swap
-https://www.googletagmanager.com
 https://pages.greatpages.com.br/www.eaglepages.com.br-emporiumdabeleza-saobentodosul/1773841610/imagens/desktop/3534696_1_177326861419276506.png
 https://pages.greatpages.com.br/www.eaglepages.com.br-emporiumdabeleza-saobentodosul/1773841610/imagens/mobile/3534696_1_177326861419276506.png
 https://wa.me/554789133277?text=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%21
@@ -277,5 +276,4 @@ https://pages.greatpages.com.br/www.eaglepages.com.br-emporiumdabeleza-saobentod
 https://www.instagram.com/emporiumdabeleza.saobentodosul
 https://pages.greatpages.com.br/www.eaglepages.com.br-emporiumdabeleza-saobentodosul/1773841610/css.css
 https://pages.greatpages.com.br/www.eaglepages.com.br-emporiumdabeleza-saobentodosul/1773841610/js.js
-https://www.googletagmanager.com/ns.html?id=GTM-56NSZ5DJ
 https://wa.me/554789133277?text=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es
